@@ -3,7 +3,7 @@
 This repository contains a Python Scrpt that allows the user to optimize Bamboo Structures with Machine learning, in order to use the least amount of bamboo canes to build a certain bamboo structure. The bamboo hall of Maya Kaqchikel was used as case study for the algorithm:
 
 ![Alt Text](https://github.com/diego-apellaniz/Bamboo-ML/blob/master/Images/Bamboo.gif)
-![Alt Text]()
+![Alt Text](https://github.com/diego-apellaniz/Bamboo-ML/blob/master/Images/maya_kaqchiqel.JPG)
 
 In order to run the python script, it is strongly recommended to create a virtual python environment with the following python libraries:  
 python               3.5  
@@ -16,3 +16,7 @@ scipy                1.4.1
 tensorboard          1.13.1  
 tensorflow           1.13.1  
 tqdm                 4.43.0  
+
+Special thanks to:  
+- Vlad Buzica: for introducing me to this problem and showing me his algorithm to sort bamboo canes  
+- sentdex: best youtube channel about machine learning
