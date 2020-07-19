@@ -1,6 +1,6 @@
 # Bamboo-ML
  
-This repository contains a Python Scrpt that allows the user to optimize Bamboo Structures with Machine learning, in order to use the least amount of bamboo canes to build a certain bamboo structure. The bamboo hall of Maya Kaqchikel was used as case study for the algorithm:
+This repository contains a Python Scrpt that allows the user to optimize Bamboo Structures with Machine learning, in order to use the least amount of bamboo canes to build a certain bamboo structure. Two different bamboo structures are provided as JSON files as case studies:
 
 ![Alt Text](https://github.com/diego-apellaniz/Bamboo-ML/blob/master/Images/Bamboo.gif)
 ![Alt Text](https://github.com/diego-apellaniz/Bamboo-ML/blob/master/Images/maya_kaqchiqel.JPG)
